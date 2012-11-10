@@ -1,4 +1,4 @@
 techstore
 =========
 
-Online Store for Technology Products
+Online Store for Technology Products   Developed in Spree
