@@ -9,6 +9,7 @@ Spree.config do |config|
   # Example:
   # Uncomment to override the default site name.
    config.site_name = "TechStore"
+   config.set(logo: "store/techstore.png")
 end
 
 Spree.user_class = "Spree::User"
