@@ -42,5 +42,4 @@ gem 'jquery-rails'
 # To use debugger
 # gem 'debugger'
 gem 'spree', :git => 'git://github.com/spree/spree.git'
-#gem 'spree_auth_devise', :git => 'git://github.com/spree/spree_auth_devise'
 gem 'spree_auth_devise', :git => 'git://github.com/fonemstr/spree_auth_devise', :branch => 'edge'
